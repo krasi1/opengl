@@ -1,0 +1,13 @@
+//
+//
+//
+
+TODO LIST
+
+---- Long term goal - spinning cube
+
+1. abstract buffer into class
+2. abstract texture logic
+
+
+
